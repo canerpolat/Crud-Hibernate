@@ -21,7 +21,7 @@ public class CountryService {
 
 			countryIdMap.put(1, turkeyCountry);
 			countryIdMap.put(4, chinaCountry);
-			countryIdMap.put(3, arjantinaCountry);
+			countryIdMap.put(3, arjentinaCountry);
 			countryIdMap.put(2, russiaCountry);
 		}
 	}
